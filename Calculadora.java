@@ -94,4 +94,4 @@ public class Calculadora {
  System.out.println("Escribe un número válido (usa punto para decimales).");
  }
  }
-}
+}"// Funcion de potencia agregada" 
